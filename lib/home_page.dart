@@ -15,15 +15,7 @@ class _HomePageState extends State<HomePage> {
         mainAxisAlignment: MainAxisAlignment.start,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Container(
-            height: 100,
-            color: Colors.deepPurple[600],
-          ),
-          Container(
-            height: 100,
-            width: 300,
-            color: Colors.deepPurple[400],
-          ),
+          
           Container(
             height: 100,
             width: 150,
